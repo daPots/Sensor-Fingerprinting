@@ -9,7 +9,7 @@
 * There were two "types" of distances collected: Distance from a static box, and Distance from a moving box
   * Static: box was placed at different ranges from sensors and data was collected
   * Moving: box was placed at different ranges, but was pulled closer (100cm) to sensors by a stepper motor
-* Around 30,000 samples were collected across ~9 hours (aggregate)
+* 38,000 samples were collected across ~9 hours (aggregate)
 
 ### Machine Learning
 * Goal is to identify which sensor a given segment of data is from
